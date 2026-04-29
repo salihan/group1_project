@@ -1,4 +1,4 @@
-#-------------------- 1 ----------------------
+
 def remove_duplicate(user_input):
     temp_set = set()
     deduplicate = []
